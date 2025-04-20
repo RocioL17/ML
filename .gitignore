@@ -1,0 +1,37 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+
+# Entorno Virtual
+venv/
+.env/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+*.nbconvert
+
+# Archivos de configuración de IDEs (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Archivos de sistema de OS
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de reportes generados
+reportes/*.html
+
+# Archivos temporales de Python
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Archivos de dependencia
+Pipfile.lock
