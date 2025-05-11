@@ -10,9 +10,12 @@ Se agrego un Script para que los outputs en HTML no se sobreescriban, y se guard
 1. Comparamos Random Forest y XGBoost
 2. Comparamos DT con XGBoost
 3. Carpeta con ejercicios
-
-- Random Forest
-- Decision Trees
+4. Algoritmos Random Forest
+5. Algoritmos Decision Trees
+6. Algoritmos Boosting
+7. Regresión Lineal
+8. Clustering
+9. Reducción dimensionalidad, pca, svd, t-sne
 
 Para hacer:
 - Usar GridSearchCV o RandomizedSearchCV para hacer la validación cruzada.
